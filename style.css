@@ -168,3 +168,17 @@
    position: relative;
    top: -12px;
 }
+.team-mumber-logo img{
+   width: 150px;
+   height: 150px;
+   position: relative;
+   top: -80px;
+}
+.team-mumber-logo{
+   box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.4);
+   padding: 15px;
+}
+.team-mumber-info{
+   position: relative;
+   top: -40px;
+}
